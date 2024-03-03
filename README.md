@@ -11,13 +11,16 @@
   * [![Linkedin Badge](https://img.shields.io/badge/-jatinupadhyayy-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:connectwithjatinupadhyay@gmail.com)](https://www.linkedin.com/in/jatinupadhyayy/)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://twitter.com/jatinupadhyayy/" target="blank"><img hspace ="20" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="Twitter" height="40" width="40" /></a>
-<a href="https://www.instagram.com/jatinupadhyayy/" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/insta.svg" alt="Insta" height="60" width="60" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+# 📫 Connect With Me:
+<div align="center">
+<a href="https://www.linkedin.com/in/jatinupadhyayy"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<a href="https://www.instagram.com/jatinupadhyayy"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+<a href="https://www.twitter.com/jatinupadhyayy"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"></a>
+</div>
+
+
+# 💻 Tech Stack:
 <div align="center">
 <img src="https://github.com/jatinupadhyayy/jatinupadhyayy/assets/161996867/131c08e7-2543-423e-96d1-5497cc46ab88" width="60">
 <img src="https://github.com/jatinupadhyayy/jatinupadhyayy/assets/161996867/0dcd4d94-84fe-4b43-b65b-fb07905ecf5f" width="60">
