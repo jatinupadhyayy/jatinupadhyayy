@@ -4,7 +4,7 @@
 <h3 align="center"> Meerut Institute of Engineering and Technology, Meerut.💡🚀</h3>
 
 - 🔭 Currently, I'm exploring the depths of artificial intelligence and its applications in everyday life.
-- 🌱 learning more about **DSA.**
+- 🌱 learning more about **Artificial Intelligence and Machine Learning**.
 - 📚 *Tech is my playground, and I thrive on discovering its hidden gems and pushing its boundaries to new frontiers.*
 - 📫 How to reach me :
   * [![Gmail Badge](https://img.shields.io/badge/-connectwithjatinupadhyay@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:connectwithjatinupadhyay@gmail.com)](mailto:connectwithjatinupadhyay@gmail.com)
